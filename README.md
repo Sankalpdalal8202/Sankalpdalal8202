@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CA2F7&center=true&vCenter=true&width=435&lines=Python+Developer;DSA+Learner;Backend+Enthusiast)](https://git.io/typing-svg)
+
 # Hi there 👋, I'm Sankalp Dalal
 
 💻 First-year Computer Science student passionate about Python, DSA, Backend Development, and Problem Solving.
