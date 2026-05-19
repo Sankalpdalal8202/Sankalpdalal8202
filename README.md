@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CA2F7&center=true&vCenter=true&width=435&lines=Python+Developer;DSA+Learner;Backend+Enthusiast)](https://git.io/typing-svg)
 
 # Hi there 👋, I'm Sankalp Dalal
-<img width="1280" height="640" alt="Sankalp Dalal" src="https://github.com/user-attachments/assets/08d7d455-831c-4bb1-ade2-f954dc663a66" />
+
 
 💻 First-year Computer Science student passionate about Python, DSA, Backend Development, and Problem Solving.
 
